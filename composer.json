@@ -10,7 +10,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "magento-hackathon/magento-composer-installer": "3.0.*",
+        "magento-hackathon/magento-composer-installer": "3.*",
         "goaop/framework": "1.0.*",
         "mikey179/vfsStream": "1.4.*"
     },
